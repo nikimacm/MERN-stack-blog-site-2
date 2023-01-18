@@ -5,7 +5,7 @@ import mongoose from "mongoose";
 const router = express.Router();
 
 export const getAllBlogPosts = (req, res) => {
-  res.send("Awesome MERN BLOG");
+  res.send("MERN STACK BLOG SITE 2");
 };
 
 export default router;
